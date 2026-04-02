@@ -1,8 +1,15 @@
 # Hi, I'm Vignesh
 
-**Seattle, WA** · Building tools at the intersection of AI, systems, and security.
+📍 **Seattle, WA** | 🦞 **Core maintainer of [OpenClaw](https://openclaw.ai)** | 🛠️ **Builder of too many things**
 
-Core maintainer of [OpenClaw](https://openclaw.ai).
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![TLA+](https://img.shields.io/badge/-TLA+-4B0082?style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ---
 
@@ -39,7 +46,4 @@ Core maintainer of [OpenClaw](https://openclaw.ai).
 - **[StumbleUpon](https://stumble-upon.up.railway.app)** — Rediscover the joy of stumbling onto random interesting websites.
 - **[Absolutely Right](https://absolutely-right.fyi)** — Your questions. Absolutely right answers. (They're not.)
 
-### Languages
-
-`Rust` · `Python` · `TypeScript` · `TLA+` · `C++` · `Java` · `Go` · `Swift`
 
