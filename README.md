@@ -42,9 +42,3 @@ Core maintainer of [OpenClaw](https://openclaw.ai).
 
 `Rust` · `Python` · `TypeScript` · `TLA+` · `C++` · `Java` · `Go` · `Swift`
 
----
-
-<a href="https://github.com/vignesh07">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vignesh07&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh07&layout=compact&theme=dark&hide_border=true" />
-</a>
