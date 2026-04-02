@@ -11,6 +11,10 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
+### Interests
+
+Distributed systems · AI · Distributed systems for AI · AI for distributed systems
+
 ---
 
 ### What I'm Building
