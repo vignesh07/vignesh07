@@ -10,6 +10,7 @@ Core maintainer of [OpenClaw](https://openclaw.ai).
 
 **OpenClaw ecosystem**
 - **[OpenClaw](https://openclaw.ai)** — Your own personal AI assistant. Any OS. Any platform.
+- **[Lobster](https://github.com/openclaw/lobster)** — A typed, local-first workflow shell that turns skills and tools into composable pipelines and safe automations. `TypeScript`
 - **[Formal Models](https://github.com/vignesh07/clawdbot-formal-models)** — TLA+ formal verification for an AI assistant, because "it works on my machine" isn't good enough. `TLA+`
 - **[Railway Template](https://github.com/vignesh07/clawdbot-railway-template)** — One-click Railway deploy for OpenClaw. `JavaScript`
 
